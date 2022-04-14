@@ -58,7 +58,6 @@ void set_data(Node *arr[])
 
 void print_hash(Node *arr[])
 {
-
     cout << "Hash Table : \n";
     for (int i = 0; i < size; i++)
     {
